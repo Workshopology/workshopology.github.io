@@ -1,2 +1,2 @@
-cd /Users/serena/Documents/workshopology.github.io;
+cd /Users/serena/Documents/workshopology-website-generator ;
 jekyll serve;
