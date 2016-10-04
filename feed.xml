@@ -6,8 +6,8 @@
 </description>
     <link>http://workshopology.github.io//</link>
     <atom:link href="http://workshopology.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Oct 2016 18:48:07 +0200</pubDate>
-    <lastBuildDate>Tue, 04 Oct 2016 18:48:07 +0200</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 19:00:32 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 19:00:32 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -22,95 +22,49 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 
 &lt;h2 id=&quot;organizers&quot;&gt;Organizers&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sabina Barcucci, MUSE Fablab (IT)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Jeffrey Bardzell, University of Indiana (USA)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Serena Cangiano, SUPSI Maind (CH)&lt;/p&gt;
+&lt;p&gt;Sabina Barcucci, MUSE Fablab (IT)&lt;br /&gt;
+Jeffrey Bardzell, University of Indiana (USA)&lt;br /&gt;
+Serena Cangiano, SUPSI Maind (CH)&lt;/p&gt;
 
-    &lt;p&gt;​&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;​&lt;/p&gt;
 
 &lt;h2 id=&quot;participants&quot;&gt;Participants&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Tiffany Tseng, &lt;em&gt;MIT Longlife Kindergarden group, Media Lab, USA&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Ricarose Roque, &lt;em&gt;MIT Longlife Kindergarden group, Media Lab USA&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Daniele Savasta, &lt;em&gt;Interaction Lab, Yasar University, Izmir, Turkey&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Demet Atınç, &lt;em&gt;Interaction Lab, Yasar University, Izmir, Turkey&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Tara Whelan, &lt;em&gt;University of Limerick, Ireland&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Austin Toombs, &lt;em&gt;Indiana University, USA&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Shad Gross, &lt;em&gt;Indiana University&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Gabriela Avram, &lt;em&gt;University of Limerick, Ireland&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Pernille Bjorn, &lt;em&gt;Datalogistic Institut, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Netta Livari, &lt;em&gt;University of Oulu, Finland&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Ana Rodriguez, &lt;em&gt;MUSE Science Museum, Expedition Genomic Lab&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Claudia Marcelloni, &lt;em&gt;Cern, Geneva&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Kasper Skov, &lt;em&gt;Datalogistic Institut, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Julian Sanin, &lt;em&gt;UniBz&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Angelo Ventura, &lt;em&gt;UniBz&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;– Costantino Bongiorno, &lt;em&gt;WeMake.cc&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;– Tiffany Tseng, &lt;em&gt;MIT Longlife Kindergarden group, Media Lab, USA&lt;/em&gt;&lt;br /&gt;
+– Ricarose Roque, &lt;em&gt;MIT Longlife Kindergarden group, Media Lab USA&lt;/em&gt;&lt;br /&gt;
+– Daniele Savasta, &lt;em&gt;Interaction Lab, Yasar University, Izmir, Turkey&lt;/em&gt;&lt;br /&gt;
+– Demet Atınç, &lt;em&gt;Interaction Lab, Yasar University, Izmir, Turkey&lt;/em&gt;&lt;br /&gt;
+– Tara Whelan, &lt;em&gt;University of Limerick, Ireland&lt;/em&gt;&lt;br /&gt;
+– Austin Toombs, &lt;em&gt;Indiana University, USA&lt;/em&gt;&lt;br /&gt;
+– Shad Gross, &lt;em&gt;Indiana University&lt;/em&gt;&lt;br /&gt;
+– Gabriela Avram, &lt;em&gt;University of Limerick, Ireland&lt;/em&gt;&lt;br /&gt;
+– Pernille Bjorn, &lt;em&gt;Datalogistic Institut, University of Copenhagen&lt;/em&gt;&lt;br /&gt;
+– Netta Livari, &lt;em&gt;University of Oulu, Finland&lt;/em&gt;&lt;br /&gt;
+– Ana Rodriguez, &lt;em&gt;MUSE Science Museum, Expedition Genomic Lab&lt;/em&gt;&lt;br /&gt;
+– Claudia Marcelloni, &lt;em&gt;Cern, Geneva&lt;/em&gt;&lt;br /&gt;
+– Kasper Skov, &lt;em&gt;Datalogistic Institut, University of Copenhagen&lt;/em&gt;&lt;br /&gt;
+– Julian Sanin, &lt;em&gt;UniBz&lt;/em&gt;&lt;br /&gt;
+– Angelo Ventura, &lt;em&gt;UniBz&lt;/em&gt;&lt;br /&gt;
+– Costantino Bongiorno, &lt;em&gt;WeMake.cc&lt;/em&gt;&lt;br /&gt;
+– Alice Mela, TODO&lt;/p&gt;
 
-    &lt;p&gt;&lt;strong&gt;Participants list&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://hackpad.com/Participants-List-Bbv53Eh9SgC&quot;&gt;https://hackpad.com/Participants-List-Bbv53Eh9SgC&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackpad.com/Participants-List-Bbv53Eh9SgC&quot;&gt;Participants list&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;program&quot;&gt;Program&lt;/h2&gt;
 
 &lt;p&gt;The complete schedule of the workshop is available here:&lt;br /&gt;
-&lt;a href=&quot;https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5&quot;&gt;https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5&quot;&gt;workshopology Trento schedule&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
 
-&lt;p&gt;Format 1: Making literacies&lt;br /&gt;
-&lt;a href=&quot;https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C&quot;&gt;https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Format 1: &lt;a href=&quot;https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C&quot;&gt;Making literacies&lt;/a&gt;&lt;br /&gt;
+Format 2: &lt;a href=&quot;https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL&quot;&gt;Make Teach Validate  &lt;/a&gt;&lt;br /&gt;
+Format 3: &lt;a href=&quot;https://hackpad.com/cultural-preservation-yxESOyvpJUq&quot;&gt;Cultural preservation &lt;/a&gt;&lt;br /&gt;
+Format 4: &lt;a href=&quot;https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2&quot;&gt;Family friendly makerspaces&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Format 2: Make Teach Validate&lt;br /&gt;
-&lt;a href=&quot;https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL&quot;&gt;https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
 
-&lt;p&gt;Format 3: Cultural preservation&lt;br /&gt;
-&lt;a href=&quot;https://hackpad.com/cultural-preservation-yxESOyvpJUq&quot;&gt;https://hackpad.com/cultural-preservation-yxESOyvpJUq&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Format 4: Family friendly makerspaces&lt;br /&gt;
-&lt;a href=&quot;https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2&quot;&gt;https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/musefablab/sets/72157668499884330/&quot;&gt;Flickr gallery&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 21 Dec 2015 23:08:35 +0100</pubDate>
