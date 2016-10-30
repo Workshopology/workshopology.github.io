@@ -611,7 +611,8 @@ body.home-intro .intro {
   font-size: 1.2em;
   font-family: "Proxima Nova", Arial, sans-serif;
   font-weight: 500;
-  font-style: italic;
+  font-style: bold;
+  color:#fff;
 }
 @media screen and (min-width: 1024px) {
   .intro-subtitle {
