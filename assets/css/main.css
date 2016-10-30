@@ -556,7 +556,7 @@ body.home-intro .intro {
   padding: 0 2em;
   text-align: center;
   color: #d9d9d9;
-  background: #33b15d;
+  background:  -webkit-linear-gradient(-45deg, #1e5799 0%,#2989d8 43%,#207cca 58%,#33b15d 100%); /* Chrome10-25,Safari5.1-6 */
   overflow: hidden;
 }
 
