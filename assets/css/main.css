@@ -441,15 +441,17 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6 {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.2;
   margin: 0 0 1em;
 }
 
-h2 {
- 
+h5 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 1em;
+  background-color: #4CD379;
 }
 
 p {
@@ -555,8 +557,8 @@ body.home-intro .intro {
   position: relative;
   padding: 0 2em;
   text-align: center;
-  color: #fffff;
-  background:  -webkit-linear-gradient(-45deg, #1e5799 0%,#2989d8 43%,#207cca 58%,#33b15d 100%); /* Chrome10-25,Safari5.1-6 */
+  color: #d9d9d9;
+  background: #33b15d;
   overflow: hidden;
 }
 
@@ -585,7 +587,7 @@ body.home-intro .intro {
   font-size: 2.6rem;
   margin: 0 0 20px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 300;
 }
 @media screen and (min-width: 768px) {
   .intro-title,
@@ -609,10 +611,9 @@ body.home-intro .intro {
 .intro-subtitle {
   margin-bottom: 1em;
   font-size: 1.2em;
-  font-family: "Proxima Nova", Arial, sans-serif;
+  font-family: "Georgia", serif;
   font-weight: 500;
-  font-style: bold;
-  color:#fff;
+  font-style: italic;
 }
 @media screen and (min-width: 1024px) {
   .intro-subtitle {
@@ -887,8 +888,8 @@ body.navigation-is-open .menu-burger {
 }
 
 .post-header {
-  margin-bottom: 5em;
-  padding: 2em 2em;
+  margin-bottom: 2em;
+  padding: 5em 2em;
 }
 
 .post-title,
