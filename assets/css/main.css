@@ -555,7 +555,7 @@ body.home-intro .intro {
   position: relative;
   padding: 0 2em;
   text-align: center;
-  color: #d9d9d9;
+  color: #fffff;
   background:  -webkit-linear-gradient(-45deg, #1e5799 0%,#2989d8 43%,#207cca 58%,#33b15d 100%); /* Chrome10-25,Safari5.1-6 */
   overflow: hidden;
 }
@@ -585,7 +585,7 @@ body.home-intro .intro {
   font-size: 2.6rem;
   margin: 0 0 20px;
   color: #fff;
-  font-weight: 300;
+  font-weight: 600;
 }
 @media screen and (min-width: 768px) {
   .intro-title,
@@ -609,7 +609,7 @@ body.home-intro .intro {
 .intro-subtitle {
   margin-bottom: 1em;
   font-size: 1.2em;
-  font-family: "Georgia", serif;
+  font-family: "Proxima Nova", Arial, sans-serif;
   font-weight: 500;
   font-style: italic;
 }
